@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'HitAndRun';
+    src: url('https://raw.github.com/rmunhos-santillana/fontes/raw/refs/heads/main/HitandRun-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3 {
+    font-family: 'HitAndRun', sans-serif;
+    color: #333;
+}
